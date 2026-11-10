@@ -1,0 +1,1 @@
+Place your electricity consumption CSV files here (optional). You can upload from any folder in the app.

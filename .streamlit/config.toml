@@ -1,0 +1,7 @@
+# Light theme with green accents (keeps the dashboard readable on every PC)
+[theme]
+base = "light"
+primaryColor = "#16A34A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0B1F3A"
